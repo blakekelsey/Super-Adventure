@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u71Mc0cS7FNwqYRBApCB38l++X37ltAactkGGoMWLgA9tNGekNHlMc3Anbv//53WZHxIO3T8Bye1UG/IkyavSA==",
+  "dgSpecHash": "btQXomkMw0I/274TmhSrOIPHuUibt7AFJpC+ypUcRKX5eeKznWFb8lRDZ68eU6Uu59IDFDrhl8PaA4vei8Vzxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eleme\\Desktop\\Github\\Super Adventure\\Super-Adventure\\Engine\\Engine.csproj",
+  "projectFilePath": "C:\\Users\\eleme\\Desktop\\Super Adventure\\Engine\\Engine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eleme\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\eleme\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
